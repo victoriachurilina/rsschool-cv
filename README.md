@@ -1,2 +1,3 @@
 # rsschool-cv
-my CV
+
+https://victoriachurilina.github.io/rsschool-cv/cv
